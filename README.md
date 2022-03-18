@@ -17,5 +17,5 @@
 | [bootstrap]            | [Wiki]                              | Smart contract that generates a bootstraped vector of numbers          |
 
 
-[bootstrap]: https://github.com/qnity/insurance_python/tree/main/smith%26wilson
-[Wiki]: https://www.eiopa.europa.eu/sites/default/files/risk_free_interest_rate/12092019-technical_documentation.pdf
+[bootstrap]: https://github.com/qnity/insurance_solidity/tree/main/bootstrap
+[Wiki]: https://en.wikipedia.org/wiki/Bootstrapping_(statistics)
