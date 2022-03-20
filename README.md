@@ -14,8 +14,18 @@
 
 | Algorithm              | Source                              | Description                                                            |
 | ---------------------- | ----------------------------------- | ---------------------------------------------------------------------- |
-| [bootstrap]            | [Wiki]                              | Smart contract that generates a bootstraped vector of numbers          |
+| [Bootstrap]            | [Wiki bootstrap]                              | Smart contract that generates a bootstraped vector of numbers          |
 
 
-[bootstrap]: https://github.com/qnity/insurance_solidity/tree/main/bootstrap
-[Wiki]: https://en.wikipedia.org/wiki/Bootstrapping_(statistics)
+[Bootstrap]: https://github.com/qnity/insurance_solidity/tree/main/bootstrap
+[Wiki bootstrap]: https://en.wikipedia.org/wiki/Bootstrapping_(statistics)
+
+## Algorithms planned
+
+| Algorithm              | Source                              | Description                                                            |
+| ---------------------- | ----------------------------------- | ---------------------------------------------------------------------- |
+| TBD                    | TBD                                 | TBD                                                                    |
+
+<b> New suggestions for algorithms are welcome </b>
+
+<b>If anybody is interested in publishing an algorithm they implemented, or help with the project, contact us and we will make it happen </b>
