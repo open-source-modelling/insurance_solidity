@@ -25,7 +25,7 @@
 | [Bootstrap]            | [Wiki bootstrap]                              | Smart contract that generates a bootstraped vector of numbers          |
 
 
-[Bootstrap]: https://github.com/qnity/insurance_solidity/tree/main/bootstrap
+[Bootstrap]: https://github.com/open-source-modelling/insurance_solidity/tree/main/bootstrap
 [Wiki bootstrap]: https://en.wikipedia.org/wiki/Bootstrapping_(statistics)
 
 ## Algorithms planned
