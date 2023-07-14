@@ -17,8 +17,8 @@ When working with time-series data, the user might want to test their algorithms
 
 One of the simplest techniques avalible is bootstrapping [Wiki link](en.wikipedia.org/wiki/Bootstrapping_(statistics)). The idea is to randomly choose elements from the time-series and stack them in a new sequence. This requires almost no additional assumptions on the behaviour or distribution of the data. The one key assumption is that each element is independent of others. If this is not the case, other methods might be more suitable. For example, if a week dependance is observed, the stationary bootstrap algorithm implemented in [Python] or in [Matlab].
 
- [Python]:github.com/qnity/insurance_python/tree/main/stationary-bootstrap
- [Matlab]:github.com/qnity/insurance_matlab/tree/main/stationary-bootstrap
+ [Python]:github.com/open-source-modelling/insurance_python/tree/main/stationary-bootstrap
+ [Matlab]:github.com/open-source-modelling/insurance_matlab/tree/main/stationary-bootstrap
 
 ## Input
 
