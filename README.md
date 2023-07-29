@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/qnity" target="_blank">
+  <a href="https://github.com/open-source-modelling" target="_blank">
     <picture>
       <img src="images/OSM_logo.jpeg" width=280 alt="Logo"/>
     </picture>
@@ -8,7 +8,7 @@
 
 <h1 align="center" style="border-botom: none">
   <b>
-    🔥 Actuarial models in Solidity 🔥     
+    🔥 Actuarial models in Solidity 🔥
   </b>
 </h1>
 
@@ -22,7 +22,7 @@
 
 | Algorithm              | Source                              | Description                                                            |
 | ---------------------- | ----------------------------------- | ---------------------------------------------------------------------- |
-| [Bootstrap]            | [Wiki bootstrap]                              | Smart contract that generates a bootstraped vector of numbers          |
+| [Bootstrap]            | [Wiki bootstrap]                    | Smart contract that generates a bootstraped vector of numbers          |
 
 
 [Bootstrap]: https://github.com/open-source-modelling/insurance_solidity/tree/main/bootstrap
